@@ -1,4 +1,4 @@
-# Hotel_Booking_Project_portfolio
+# Hotel_Booking_Project
 This have picked up this dataset from the KAGLE website and then analyzed it. 
 
 # Business Problem
